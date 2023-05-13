@@ -10,7 +10,7 @@
 - vocalist.php : voca.php 파일에 기술한 $voca배열을 읽고 아래 형식으로 출력하는 파일
 - quiz.php : $voca 배열에서 랜덤하게 5개의 단어들을 추출하여 퀴즈로 출제하는 파일
   (아래와 같은 형식으로 출력했습니다.)
-  ![[Pasted image 20230513143944.png]]
+  ![스크린샷 2023-05-13 143649](https://github.com/realchainjul/english-voca-quiz/assets/132828704/d8f564d4-db00-4eed-97b5-a3639176701c)
 - quizscore.php : quiz.php에서 입력한 값들을 읽고 채점한 다음 결과를 출력
   (아래와 같은 형식으로 출력했습니다.
   ![[Pasted image 20230513143831.png]]
